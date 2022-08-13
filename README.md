@@ -7,3 +7,4 @@ Date: August 12, 2022 (PROJECT PLAN)
 1) Create README.md, index.HTML, and stylesheet.css
 2) Add content to index.HTML for the header
 3) css for header content
+4) arranged header with flexbox
