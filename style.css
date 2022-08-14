@@ -6,8 +6,8 @@ body{
 .header{
     background-color: #1F2937;
     height: 535px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .header-container-1 {
@@ -64,12 +64,45 @@ button {
     height: 35px;
 }
 
-.placeholder {
-    background-color: gray;
+#art-image {
     width: 530px;
     height: 250px;
     text-align:center;
     color: white;
     line-height: 265px;
+    border-radius: 5px;
 }
 
+.section-2 {
+    height: 500px;
+}
+
+.info {
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.picture-container {
+   
+}
+
+#dragon-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+#fence-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+#wall-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+#color-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
