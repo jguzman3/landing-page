@@ -12,3 +12,7 @@ Date: August 12, 2022 (PROJECT PLAN)
 6) css for section 2 content
 7) arrange section 2 content with flexbox
 8) add content to index.html for section 3
+9) css for section 3 content & arrange with flexbox
+10) add section 4 and footer content to index.html
+11) css and flexbox for remaining content
+12) final touches to html & css
